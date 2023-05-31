@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.09ea4ea2.css","mappings":"AAAA,KACE,cACF,CAEA,iBAIE,qBAAsB,CADtB,QAAS,CADT,SAGF,CAEA,EACE,oBACF","sources":["index.css"],"sourcesContent":["html {\n  font-size: 10px;\n}\n\n*, *::after,\n*::before {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n\na {\n  text-decoration: none;\n}"],"names":[],"sourceRoot":""}
