@@ -1,0 +1,8 @@
+.custom-nav {
+    background-color: transparent;
+    transition: all 1s ease-in;
+}
+
+.custom-nav:hover {
+    background-color: rgb(108,117,125) !important;
+}
